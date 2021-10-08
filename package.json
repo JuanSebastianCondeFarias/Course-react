@@ -37,8 +37,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://juansebastiancondefarias.github.io/primerappreact/",
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "https://juansebastiancondefarias.github.io/primerappreact/",
 }
