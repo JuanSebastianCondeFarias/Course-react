@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/primerappreact/static/css/main.c5fadf28.chunk.css",
+    "main.js": "/primerappreact/static/js/main.2e6b7900.chunk.js",
+    "main.js.map": "/primerappreact/static/js/main.2e6b7900.chunk.js.map",
+    "runtime-main.js": "/primerappreact/static/js/runtime-main.1e154132.js",
+    "runtime-main.js.map": "/primerappreact/static/js/runtime-main.1e154132.js.map",
+    "static/js/2.a52655d3.chunk.js": "/primerappreact/static/js/2.a52655d3.chunk.js",
+    "static/js/2.a52655d3.chunk.js.map": "/primerappreact/static/js/2.a52655d3.chunk.js.map",
+    "index.html": "/primerappreact/index.html",
+    "static/css/main.c5fadf28.chunk.css.map": "/primerappreact/static/css/main.c5fadf28.chunk.css.map",
+    "static/js/2.a52655d3.chunk.js.LICENSE.txt": "/primerappreact/static/js/2.a52655d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e154132.js",
+    "static/js/2.a52655d3.chunk.js",
+    "static/css/main.c5fadf28.chunk.css",
+    "static/js/main.2e6b7900.chunk.js"
+  ]
+}
